@@ -9,3 +9,6 @@ function elevation() {
 }
 
 export { trees, wildlife };
+function elevation() {
+  console.log("9583ft");
+  }

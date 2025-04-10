@@ -6,3 +6,6 @@ function ColoradoStateParks() {
 
   return <h1>Colorado State Parks!</h1>;
 }
+import { trees, wildlife } from "./parks/RockyMountain";
+console.log(trees)
+wildlife();
